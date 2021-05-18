@@ -1,0 +1,13 @@
+D:\OMG\IntershipUnity\IntershipUnity\bin\Debug\netcoreapp3.1\IntershipUnity.exe
+D:\OMG\IntershipUnity\IntershipUnity\bin\Debug\netcoreapp3.1\IntershipUnity.deps.json
+D:\OMG\IntershipUnity\IntershipUnity\bin\Debug\netcoreapp3.1\IntershipUnity.runtimeconfig.json
+D:\OMG\IntershipUnity\IntershipUnity\bin\Debug\netcoreapp3.1\IntershipUnity.runtimeconfig.dev.json
+D:\OMG\IntershipUnity\IntershipUnity\bin\Debug\netcoreapp3.1\IntershipUnity.dll
+D:\OMG\IntershipUnity\IntershipUnity\bin\Debug\netcoreapp3.1\IntershipUnity.pdb
+D:\OMG\IntershipUnity\IntershipUnity\obj\Debug\netcoreapp3.1\IntershipUnity.csprojAssemblyReference.cache
+D:\OMG\IntershipUnity\IntershipUnity\obj\Debug\netcoreapp3.1\IntershipUnity.AssemblyInfoInputs.cache
+D:\OMG\IntershipUnity\IntershipUnity\obj\Debug\netcoreapp3.1\IntershipUnity.AssemblyInfo.cs
+D:\OMG\IntershipUnity\IntershipUnity\obj\Debug\netcoreapp3.1\IntershipUnity.csproj.CoreCompileInputs.cache
+D:\OMG\IntershipUnity\IntershipUnity\obj\Debug\netcoreapp3.1\IntershipUnity.dll
+D:\OMG\IntershipUnity\IntershipUnity\obj\Debug\netcoreapp3.1\IntershipUnity.pdb
+D:\OMG\IntershipUnity\IntershipUnity\obj\Debug\netcoreapp3.1\IntershipUnity.genruntimeconfig.cache
