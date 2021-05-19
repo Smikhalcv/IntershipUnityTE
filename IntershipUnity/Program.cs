@@ -36,8 +36,9 @@ namespace IntershipUnity
                         break;
                     case "2":
                         ArrayWords arrayWords = new ArrayWords();
-                        arrayWords.DefiningChars(arrayWords.example1);
-                        arrayWords.DefiningChars(arrayWords.example2);
+                        arrayWords.MakeArray();
+                        // Оставлена для проверки
+                        //ArrayWords.DefiningChars(arrayWords.example1); 
                         break;
                     case "3":
                         Polindrome polindrome = new Polindrome();
