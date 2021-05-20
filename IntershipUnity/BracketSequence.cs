@@ -24,7 +24,7 @@ namespace IntershipUnity
             else
             {
                 // проходится по строке, пока не найдёт пару скобок
-                // после нахождения пара скобок удаляется, а счётчик сбрасывает на 1
+                // после нахождения пара скобок удаляется, а счётчик сбрасывает
                 for (int i = 1; i < workingSequence.Length; i++)
                 {
                     if (workingSequence[0] == ')' || workingSequence[0] == ']' || workingSequence[0] == '}')
@@ -36,21 +36,21 @@ namespace IntershipUnity
                     {
                         workingSequence = workingSequence.Remove(i, 1);
                         workingSequence = workingSequence.Remove(i - 1, 1);
-                        i = 1;
+                        i = 0;
                     }
                     else if (workingSequence[i] == ']' && workingSequence[i - 1] == '[')
                     {
                         workingSequence = workingSequence.Remove(i, 1);
                         workingSequence = workingSequence.Remove(i - 1, 1);
-                        i = 1;
+                        i = 0;
                     }
                     else if (workingSequence[i] == '}' && workingSequence[i - 1] == '{')
                     {
                         workingSequence = workingSequence.Remove(i, 1);
                         workingSequence = workingSequence.Remove(i - 1, 1);
-                        i = 1;
+                        i = 0;
                     }
-                    if (i == workingSequence.Length)
+                    if (i + 1 == workingSequence.Length)
                     {
                         indicator = false;
                     }
