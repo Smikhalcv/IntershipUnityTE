@@ -45,7 +45,10 @@ namespace IntershipUnity
                         polindrome.DefinesPolindrom();
                         break;
                     case "4":
-                        Console.WriteLine("not done");
+                        BracketSequence sequences = new BracketSequence();
+                        // оставлено для проверки
+                        //BracketSequence.bracketSequence(sequences.example1);
+                        sequences.CreatingSequence();
                         break;
                     case "выход":
                         program = false;

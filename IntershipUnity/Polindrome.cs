@@ -25,7 +25,7 @@ namespace IntershipUnity
             // условия на определения полиндрома
             while (true)
             {
-                // вывод отдель символом для облегчения дебага
+                // вывод отдельно символов для облегчения дебага
                 char startChar = polindromeString[startString]; 
                 char endChar = polindromeString[endString];
 
